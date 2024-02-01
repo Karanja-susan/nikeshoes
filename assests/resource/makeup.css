@@ -1,0 +1,64 @@
+h1  {
+    margin: 0;
+    padding: 0;
+    font-family: Algerian;
+    color: crimson;
+    background-color: transparent;
+
+}
+body{
+    background-color:deepskyblue;
+    height: 500vh;
+    width: 250vw;
+    border: 1px solid coral;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+
+}
+.group{
+    font-family: Arial;
+    padding: 2px;
+    margin: 2px;
+
+}
+.class{
+    font-family: Arial;
+    padding: 2px;
+    margin: 2px;
+}
+#email{
+   font-family: Arial;
+    padding: 2px;
+    margin: 2px;
+}
+#confirm\ password{
+   font-family: Arial;
+    padding: 2px;
+    margin: 2px;
+}
+#password{
+    font-family: Arial;
+    padding: 2px;
+    margin: 2px;
+}
+#button{
+    border-radius: 2px;
+    margin: 2px;
+    padding: 2px;
+    background-color: mediumpurple;
+    cursor: pointer;
+
+}
+.class-form{
+    background-color:lightpink;
+}
+.class-container{
+    background-color: deepskyblue;
+}
+input{
+    border-radius: 5px;
+    margin: 0;
+    padding: 0;
+    border: 2px solid plum;
+}

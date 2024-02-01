@@ -1,0 +1,24 @@
+ol{
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    color: blueviolet;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    list-style-type: none;
+    float: left;
+    font-family: Algerian;
+    text-decoration: none;
+}
+
+body{
+    background-image:url("assests/images/jordan_shoes.jpeg");
+}
+h2{
+    color: rebeccapurple;
+    font-family: Algerian;font-size: larger;
+    text-align: center;
+
+}
